@@ -1,0 +1,4 @@
+rootProject.name = "ModuleRoute"
+include ':app'
+include ':routeCompiler'
+include ':routeAPI'
